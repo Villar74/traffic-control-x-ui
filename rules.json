@@ -1,0 +1,15 @@
+{
+  "ignore_domains": [
+    "one.one.one.one"
+  ],
+  "services": {
+    "149.154.": "Telegram",
+    "157.240.": "Meta (FB/WhatsApp)",
+    ".cdninstagram.com": "Instagram Media",
+    "i.instagram.com": "Instagram API",
+    "graph.instagram.com": "Instagram Graph",
+    "edge-mqtt.facebook.com": "Facebook MQTT",
+    "graph.facebook.com": "Facebook API",
+    "apple.com": "Apple Services"
+  }
+}
