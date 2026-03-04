@@ -35,6 +35,8 @@ Ensure you have Python installed on your server:
 python3 --version
 ```
 
+Ensure you have logs enabled 
+
 ### 1. Put serverexp.py and rules.json on your server
 ### 2. Install dependencies
 ```bash
